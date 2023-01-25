@@ -27,5 +27,4 @@ As of Dec 2022:
 Update as of Jan 2023: 
 There a few deprecated module scripts/libraries as of 1st Jan 2023. Therefore, please refer to module documentation for more info. 
 
-# 
-### Please raise PR if there's errors in the code 🤟🏻
+
