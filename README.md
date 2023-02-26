@@ -6,7 +6,7 @@ There are limitations of BeautifulSoup with different website. As frontend are b
   + eg; for Jobstreet, the href only pointed at the company's web page instead of the job iteself. though the url shows up after inspecting the elements but it doesn't show as an output during iteration. 
   + the loop is inconsistent throughout every iteration, some iteration gives a complete href extraction of a specific url but some just return with a company'ssite only (due to /cmp instead of /rc/clk)
   
-# Web Scraping and Automation with Selenium
+# Web Scraping and RPA with Selenium
 
 As of Dec 2022:
 1. Scraping and Automation with Selenium is done with MAC OS hence there are few problems encountered and solutions;
